@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Blockchain Developer working remotely in India.
-- 🌱 &nbsp; Learning more about Web Developement, Docker and Figma.
+- 🌱 &nbsp; Learning more about Web3, Docker, and Figma.
 - ⚡️ &nbsp; Fun fact: I like playing cricket.
 
 ---
