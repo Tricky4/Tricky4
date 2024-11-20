@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Blockchain Developer working remotely in India.
+- 🤔 &nbsp; Blockchain and Java Developer working remotely in India.
 - 🌱 &nbsp; Learning more about Web3, Docker, and Figma.
 - ⚡️ &nbsp; Fun fact: I like playing cricket.
 
@@ -13,16 +13,18 @@
   ![Algorand Blockchain](https://img.shields.io/badge/-Algorand-333333?style=flat&logo=algorand)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
   ![C](https://img.shields.io/badge/-C_Programming-333333?style=flat&logo=C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)   
 
